@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-typescript-angular-csr
   title: Typescript Angular CSR
-  description: 
+  description: Criar uma single page application usando Angular e client side render
   tags:
     - typescript
     - frontend
     - spa
     - pwa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
